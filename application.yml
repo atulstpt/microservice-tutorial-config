@@ -4,7 +4,7 @@ spring:
 eureka:
   instance:
     prefer-ip-address: true
-    appname: USER-SERVICE
+    appname: Config-Default
   client:
     fetch-registry: true
     register-with-eureka: true
